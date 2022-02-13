@@ -1,10 +1,11 @@
 poweron button
-
+volume buttons
 camera
-
+pictures
 gallery
-
+dial pad
 contacts
-
+google
 apps
 menu
+smart phone
