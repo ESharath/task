@@ -1,4 +1,4 @@
-
+poweron button
 
 camera
 
@@ -6,5 +6,5 @@ gallery
 
 contacts
 
-
+apps
 menu
