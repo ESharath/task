@@ -9,3 +9,7 @@ google
 apps
 menu
 smart phone
+
+
+settings
+storage
